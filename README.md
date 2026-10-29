@@ -85,7 +85,7 @@
 - Explored product categories, sales performance, customer demographics, and revenue.
 - Used SQL queries, aggregations, filtering, and business metrics to answer analytical questions.
 
-🔗 **[View Project on GitHub](YOUR_RETAIL_PROJECT_LINK)**
+🔗 **[View Project on GitHub](https://github.com/KumarAsishSahoo/SQL_RETAIL_SALES_ANALYSIS.git)**
 
 ---
 
