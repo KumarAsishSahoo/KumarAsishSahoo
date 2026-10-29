@@ -67,7 +67,7 @@
 ## 🚀 Featured Projects
 
 ### 🛒 1. E-commerce Funnel & Retention Analysis
-**Tools:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+**Tools:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 - Analyzed customer behavior across different stages of the e-commerce purchase funnel.
 - Measured conversion rates from product views to completed purchases.
@@ -79,7 +79,7 @@
 ---
 
 ### 📊 2. SQL Retail Sales Analysis
-**Tools:** SQL | PostgreSQL
+**Tools:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 - Analyzed retail sales transactions to identify sales trends and customer purchasing patterns.
 - Explored product categories, sales performance, customer demographics, and revenue.
