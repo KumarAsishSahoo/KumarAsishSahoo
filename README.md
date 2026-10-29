@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hi, I'm Asish Kumar <br>I'm an aspiring Data Analyst who enjoys exploring data, identifying patterns, and translating findings into actionable business insights.<br><br>- 📊 Interested in Data Analytics, Business Intelligence, and data-driven decision-making<br>- 🧠 Strong focus on SQL, with working knowledge of Python, Excel, and Power BI , Statistics<br>- 🛒 Built an E-commerce Funnel & Retention Analysis project using PostgreSQL and Power BI<br>- 📧 Completed an Email Marketing Internship, working with campaign performance, customer segmentation, reporting, and A/B testing<br>- 🌱 Continuously improving my skills through hands-on projects and practical problem-solving<br>- 🎯 Career goal: contribute to a data/analytics team and grow into more
+👋 Hi, I'm Asish Kumar <br> Aspiring Data Analyst who enjoys exploring data, identifying patterns, and translating findings into actionable business insights.<br><br>- 📊 Interested in Data Analytics, Business Intelligence, and data-driven decision-making<br>- 🧠 Strong focus on SQL, with working knowledge of Python, Excel, and Power BI , Statistics<br>- 🛒 Built an E-commerce Funnel & Retention Analysis project using PostgreSQL and Power BI<br>- 📧 Completed an Email Marketing Internship, working with campaign performance, customer segmentation, reporting, and A/B testing<br>- 🌱 Continuously improving my skills through hands-on projects and practical problem-solving<br>- 🎯 Career goal: contribute to a data/analytics team and grow into more
 
 
 ## 🌐 Socials:
@@ -14,6 +14,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KumarAsishSahoo&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=KumarAsishSahoo&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
