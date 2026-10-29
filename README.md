@@ -64,5 +64,39 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 🛒 1. E-commerce Funnel & Retention Analysis
+**Tools:** PostgreSQL | SQL | Power BI
+
+- Analyzed customer behavior across different stages of the e-commerce purchase funnel.
+- Measured conversion rates from product views to completed purchases.
+- Evaluated acquisition channels based on customers, orders, revenue, and average order value.
+- Developed business insights to identify conversion opportunities and improve marketing performance.
+
+🔗 **[View Project on GitHub](YOUR_ECOMMERCE_PROJECT_LINK)**
+
+---
+
+### 📊 2. SQL Retail Sales Analysis
+**Tools:** SQL | PostgreSQL
+
+- Analyzed retail sales transactions to identify sales trends and customer purchasing patterns.
+- Explored product categories, sales performance, customer demographics, and revenue.
+- Used SQL queries, aggregations, filtering, and business metrics to answer analytical questions.
+
+🔗 **[View Project on GitHub](YOUR_RETAIL_PROJECT_LINK)**
+
+---
+
+### 💡 3. More Projects Coming Soon
+
+I'm continuously building projects to strengthen my skills in data analytics, business intelligence, Python, and data visualization.
+
+🔗 **[Explore All My Repositories](https://github.com/KumarAsishSahoo?tab=repositories)**
+
+---
+
+
 💡 *"Turning data into insights, and insights into better decisions."*
 
