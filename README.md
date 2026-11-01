@@ -1,6 +1,7 @@
 # 💫 About Me
 
-👋 Hi, I'm **Asish Kumar Sahoo**, an aspiring Data Analyst passionate about exploring data, identifying patterns, and transforming raw data into actionable business insights.
+👋 Hi, 
+I'm **Asish Kumar Sahoo**, an aspiring Data Analyst passionate about exploring data, identifying patterns, and transforming raw data into actionable business insights.
 
 - 📊 Interested in Data Analytics, Business Intelligence, and data-driven decision-making.
 - 🗄️ Strong focus on SQL, with hands-on experience in PostgreSQL and practical knowledge of MySQL and SQLite.
@@ -66,7 +67,7 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 1. E-commerce Funnel & Retention Analysis
+### 🛒 1. Ecommerce-Funnel-Retention-Analysis
 **Tools:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black). ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 
