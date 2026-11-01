@@ -74,7 +74,7 @@
 - Evaluated acquisition channels based on customers, orders, revenue, and average order value.
 - Developed business insights to identify conversion opportunities and improve marketing performance.
 
-🔗 **[View Project on GitHub](YOUR_ECOMMERCE_PROJECT_LINK)**
+🔗 **[View Project on GitHub](https://github.com/KumarAsishSahoo/E-COMMERCE-SALES-ANALYTICS.git)**
 
 ---
 
