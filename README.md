@@ -7,7 +7,7 @@ I'm **Asish Kumar Sahoo**, an aspiring Data Analyst passionate about exploring d
 - 🗄️ Strong focus on SQL, with hands-on experience in PostgreSQL and practical knowledge of MySQL and SQLite.
 - 🐍 Working with Python, Pandas, NumPy, Matplotlib, and Seaborn for data analysis and visualization.
 - 📈 Learning and applying Microsoft Excel, Power BI, and Statistics to solve business problems.
-- 🛒 Built an **E-commerce Funnel & Retention Analysis** project using PostgreSQL and Power BI.
+- 🛒 Built **E-commerce Funnel & Retention Analysis** , **Retail Sales Analysis** project and currently working on multiple project
 - 📧 Completed an Email Marketing Internship involving campaign performance analysis, customer segmentation, reporting, and A/B testing.
 - 🤖 Exploring Generative AI (GenAI) and its applications in analytics and productivity.
 - 🔧 Familiar with Git and GitHub for version control and project management.
