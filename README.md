@@ -80,7 +80,7 @@ I'm **Asish Kumar Sahoo**, an aspiring Data Analyst passionate about exploring d
 
 ---
 
-### 📊 2. SQL Retail Sales Analysis
+### 📊 2. Retail Sales Analysis
 **Tools:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 - Analyzed retail sales transactions to identify sales trends and customer purchasing patterns.
