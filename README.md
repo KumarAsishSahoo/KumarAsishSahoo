@@ -22,6 +22,8 @@ I'm **Asish Kumar Sahoo**, an aspiring Data Analyst passionate about exploring d
 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarasishsahoo1@gmail.com)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://kumarasishsahoo.github.io/Portfolio/)
+
 ---
 
 ## 💻 Tech Stack & Skills
